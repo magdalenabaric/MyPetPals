@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362076843582",
+    "project_id": "mypetpals-60e22",
+    "storage_bucket": "mypetpals-60e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362076843582:android:f17ba381b771b8e68cab6f",
+        "android_client_info": {
+          "package_name": "com.example.mypetpals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFpdh88WcVquK4WNMRD52t1qjb2IAbRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
